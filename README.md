@@ -27,7 +27,7 @@
 - [x] Inline Search
 - [x] Random pics
 - [x] ids and User info 
-- [x] Stats, Users, Chats, Ban, Unban, Leave, Disable, Channel
+
 - [x] Spelling Check Feature
 - [x] File Store
 ## Variables
